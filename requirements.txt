@@ -1,1 +1,5 @@
-
+# Jupyter notebook support.
+ipykernel
+notebook
+# Numerical arrays for the SHA-256 bitwise operations and constants.
+numpy
